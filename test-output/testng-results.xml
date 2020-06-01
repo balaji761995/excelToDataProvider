@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2133" started-at="2020-05-18T15:56:50 IST" finished-at="2020-05-18T15:56:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2133" started-at="2020-05-18T15:56:50 IST" finished-at="2020-05-18T15:56:52 IST">
+      <class name="stepDefinitions.LoginPageTest">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="30" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="25" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="18" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- stepDefinitions.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
