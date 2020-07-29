@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2133" started-at="2020-05-18T15:56:50 IST" finished-at="2020-05-18T15:56:52 IST">
+  <suite name="Default suite" duration-ms="2194" started-at="2020-06-01T12:46:11 IST" finished-at="2020-06-01T12:46:13 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2133" started-at="2020-05-18T15:56:50 IST" finished-at="2020-05-18T15:56:52 IST">
+    <test name="Default test" duration-ms="2194" started-at="2020-06-01T12:46:11 IST" finished-at="2020-06-01T12:46:13 IST">
       <class name="stepDefinitions.LoginPageTest">
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="30" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="22" started-at="2020-06-01T12:46:13 IST" data-provider="loginData" finished-at="2020-06-01T12:46:13 IST">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="25" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="4" started-at="2020-06-01T12:46:13 IST" data-provider="loginData" finished-at="2020-06-01T12:46:13 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="18" started-at="2020-05-18T15:56:52 IST" data-provider="loginData" finished-at="2020-05-18T15:56:52 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.LoginPageTest@52feb982]" name="loginTest" duration-ms="3" started-at="2020-06-01T12:46:13 IST" data-provider="loginData" finished-at="2020-06-01T12:46:13 IST">
           <params>
             <param index="0">
               <value>
